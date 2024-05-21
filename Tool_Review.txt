@@ -5,6 +5,11 @@
 2.1 Splink
 
 2.2 Features
+a) Speed: Capable of linking a million records on a laptop in around a minute.
+b) Accuracy: Support for term frequency adjustments and user-defined fuzzy matching logic.
+c) Scalability: Execute linkage in Python or big-data backends like Spark for 100+ million records.
+d) Unsupervised Learning: No training data is required for model training.
+e) Interactive Outputs: A suite of interactive visualisations for users to understand their model and diagnose problems.
 
 2.3 Use cases
 Entities using Splink include the UK public sector (e.g. Ministry of Justice, Ministry of Defence, Office of National Statistics, Office of Technology and Innovation), the international public sector (e.g. Chilean Ministry of Health, Florida Cancer Registry), and the academia (Stanford University, Bern University) [1].
