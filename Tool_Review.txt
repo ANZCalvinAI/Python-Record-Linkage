@@ -3,9 +3,16 @@
 
 2. Tools
 2.1 Splink
-(-)
+
+2.2 Features
+
+2.3 Use cases
+Entities using Splink include the UK public sector (e.g. Ministry of Justice, Ministry of Defence, Office of National Statistics, Office of Technology and Innovation), the international public sector (e.g. Chilean Ministry of Health, Florida Cancer Registry), and the academia (Stanford University, Bern University) [1].
 
 2.2 (-)
+
+3. Summary
+(-)
 
 References:
 1. Splink: https://pypi.org/project/splink/
